@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "CDCtoPterm": {
+      "commandName": "Project",
+      "commandLineArgs": "e:/tom/ANSETT.BIN e:/tom/ANSETT.xxx"
+    }
+  }
+}
